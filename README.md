@@ -1,1 +1,3 @@
-rPlanx training app
+Firt Java  app
+
+Author - Prodipto
